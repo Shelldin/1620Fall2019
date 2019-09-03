@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/StartBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,6 +21,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
         <option value="$PROJECT_DIR$/Assets/StartScript.cs" />
         <option value="$PROJECT_DIR$/Assets/StartBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Variables.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +74,7 @@
       <workItem from="1566941461757" duration="651000" />
       <workItem from="1567111911302" duration="11000" />
       <workItem from="1567111965006" duration="2337000" />
+      <workItem from="1567543062509" duration="2016000" />
     </task>
     <servers />
   </component>
