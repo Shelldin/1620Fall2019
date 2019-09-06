@@ -13,6 +13,7 @@ public class Variables : MonoBehaviour
     public int firepower;
     public UnityEvent Event;
 
+    
     private void OnTriggerEnter(Collider other)
     {
         Event.Invoke();
