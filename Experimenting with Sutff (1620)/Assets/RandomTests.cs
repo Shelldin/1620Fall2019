@@ -11,10 +11,16 @@ public class RandomTests : MonoBehaviour
     public string noob = "I really have no idea what I'm doing";
 
     public UnityEvent Ereignis;
+    public UnityEvent Geschenis;
 
     private void OnTriggerEnter(Collider other)
     {
         Ereignis.Invoke();
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        Geschenis.Invoke();
     }
 
     //couldn't get this to work. I'll try again later.
