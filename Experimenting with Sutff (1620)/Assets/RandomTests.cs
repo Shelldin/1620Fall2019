@@ -29,10 +29,10 @@ public class RandomTests : MonoBehaviour
         Geschenis.Invoke();
     }
 
-    //couldn't get this to work. I'll try again later.
+   
     private void OnMouseOver()
     {
-        
+        print(noob);        
     }
        
     
