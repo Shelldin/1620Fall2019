@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.UI;
 
 public class RandomTests : MonoBehaviour
 {
@@ -14,6 +15,11 @@ public class RandomTests : MonoBehaviour
     public UnityEvent Geschenis;
 
     private void OnTriggerEnter(Collider other)
+    {
+        Ereignis.Invoke();
+    }
+
+    private void OnTriggerStay(Collider other)
     {
         Ereignis.Invoke();
     }
