@@ -6,7 +6,10 @@
     <e p="D:\GitHub Repos\1620Fall2019\Experimenting with Sutff (1620)" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="RandomTests.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ClickDestroy.cs" t="Include" />
+          <e p="RandomTests.cs" t="Include" />
+        </e>
       </e>
       <e p="Experimenting with Sutff (1620).sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
