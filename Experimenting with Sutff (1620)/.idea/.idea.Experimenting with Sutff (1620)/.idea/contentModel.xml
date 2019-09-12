@@ -10,6 +10,7 @@
           <e p="ClickDestroy.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="OnMouseDownShot.cs" t="Include" />
+          <e p="PartCollision.cs" t="Include" />
           <e p="RandomTests.cs" t="Include" />
           <e p="TriggerEvent.cs" t="Include" />
         </e>
