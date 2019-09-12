@@ -12,8 +12,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,6 +81,8 @@
       <workItem from="1567740555849" duration="279000" />
       <workItem from="1567742068179" duration="627000" />
       <workItem from="1568147869975" duration="3144000" />
+      <workItem from="1568264502703" duration="1000" />
+      <workItem from="1568264665036" duration="1272000" />
     </task>
     <servers />
   </component>

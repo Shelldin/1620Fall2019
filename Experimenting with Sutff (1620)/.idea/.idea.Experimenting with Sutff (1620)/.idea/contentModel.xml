@@ -8,7 +8,10 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="ClickDestroy.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="OnMouseDownShot.cs" t="Include" />
           <e p="RandomTests.cs" t="Include" />
+          <e p="TriggerEvent.cs" t="Include" />
         </e>
       </e>
       <e p="Experimenting with Sutff (1620).sln" t="IncludeFlat" />
