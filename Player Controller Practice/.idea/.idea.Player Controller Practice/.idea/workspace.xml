@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3be823dd-a681-4531-9686-0d804575750e" name="Default Changelist" comment="" />
+    <list default="true" id="ca597b67-dd1c-407b-b8db-42c706fb26ab" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,32 +12,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RandomTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickDestroy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../CreateProjectPractice/Assets/Scripts/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParColEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnMouseDownShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/RandomTests.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RandomTests.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ClickDestroy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/OnMouseDownShot.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ParticleCollsion.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PartCollision.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ParColEvent.cs" />
-        <option value="$PROJECT_DIR$/../CreateProjectPractice/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QUlYBWz2C27TmWRxwdB44doHk3" />
+  <component name="ProjectId" id="1R2eSyPAU22sj3HMFeLScfoVBLz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
@@ -78,14 +62,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3be823dd-a681-4531-9686-0d804575750e" name="Default Changelist" comment="" />
-      <created>1567833106513</created>
+      <changelist id="ca597b67-dd1c-407b-b8db-42c706fb26ab" name="Default Changelist" comment="" />
+      <created>1568869621874</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567833106513</updated>
-      <workItem from="1567833118931" duration="10761000" />
-      <workItem from="1568612346045" duration="599000" />
-      <workItem from="1568752976806" duration="1248000" />
+      <updated>1568869621874</updated>
+      <workItem from="1568869623200" duration="2775000" />
     </task>
     <servers />
   </component>
@@ -99,9 +81,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
