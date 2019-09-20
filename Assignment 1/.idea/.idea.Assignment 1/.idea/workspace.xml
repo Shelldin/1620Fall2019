@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76e7240d-e198-410b-980d-243ecec9e0aa" name="Default Changelist" comment="" />
+    <list default="true" id="3c616f08-c7d4-43ad-a932-303a5b1439db" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,22 +12,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../Experimenting with Sutff (1620)/Assets/Scripts/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnParticleCollsion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PartColEvent.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/MouseDownEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/OnParticleCollsion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseDownEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PartColEvent.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QuERIhfeztRp9scEhBmZvvfOUm" />
+  <component name="ProjectId" id="1R4ku68PP3Nj0r3cfZCFetyS5ah" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
@@ -68,12 +70,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76e7240d-e198-410b-980d-243ecec9e0aa" name="Default Changelist" comment="" />
-      <created>1568612079946</created>
+      <changelist id="3c616f08-c7d4-43ad-a932-303a5b1439db" name="Default Changelist" comment="" />
+      <created>1568933974947</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568612079946</updated>
-      <workItem from="1568612097023" duration="5007000" />
+      <updated>1568933974947</updated>
+      <workItem from="1568933976667" duration="5086000" />
     </task>
     <servers />
   </component>
