@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76e7240d-e198-410b-980d-243ecec9e0aa" name="Default Changelist" comment="" />
+    <list default="true" id="9c3a6c1b-b3d9-46fc-918f-6ac3835ee609" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,22 +12,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../Experimenting with Sutff (1620)/Assets/Scripts/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnParticleCollsion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Player Controller Practice/Assets/Scripts/CylinderController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/MouseDownEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/OnParticleCollsion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QuERIhfeztRp9scEhBmZvvfOUm" />
+  <component name="ProjectId" id="1RB6PAr73MCvWHIVuXrVcheXn5H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
@@ -68,12 +63,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76e7240d-e198-410b-980d-243ecec9e0aa" name="Default Changelist" comment="" />
-      <created>1568612079946</created>
+      <changelist id="9c3a6c1b-b3d9-46fc-918f-6ac3835ee609" name="Default Changelist" comment="" />
+      <created>1569128120655</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568612079946</updated>
-      <workItem from="1568612097023" duration="5007000" />
+      <updated>1569128120655</updated>
+      <workItem from="1569128131330" duration="1489000" />
     </task>
     <servers />
   </component>

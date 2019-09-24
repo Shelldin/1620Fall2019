@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Beans\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Beans\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Player Controller Practice.-1965904848.00" t="ExcludeRecursive" />
-    <e p="D:\GitHub Repos\1620Fall2019\Player Controller Practice" t="IncludeRecursive">
+    <e p="C:\Users\Beans\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Experiments2.499193904.00" t="ExcludeRecursive" />
+    <e p="D:\GitHub Repos\1620Fall2019\Experiments2" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="CubeController.cs" t="Include" />
-          <e p="CylinderController.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
         </e>
       </e>
+      <e p="Experiments2.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
-      <e p="Player Controller Practice.sln" t="IncludeFlat" />
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
