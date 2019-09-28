@@ -11,6 +11,7 @@
           <e p="CatClass.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="Functions.cs" t="Include" />
           <e p="IfElseFruit.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
