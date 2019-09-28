@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca597b67-dd1c-407b-b8db-42c706fb26ab" name="Default Changelist" comment="" />
+    <list default="true" id="ad241b4b-e049-494e-8f30-4b911f13b269" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,20 +12,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CylinderController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Player Controller Practice/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CubeController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CylinderController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1R2eSyPAU22sj3HMFeLScfoVBLz" />
+  <component name="ProjectId" id="1RS1XqG9mOnG0P23BEDMU1GTl3v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
@@ -66,14 +63,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca597b67-dd1c-407b-b8db-42c706fb26ab" name="Default Changelist" comment="" />
-      <created>1568869621874</created>
+      <changelist id="ad241b4b-e049-494e-8f30-4b911f13b269" name="Default Changelist" comment="" />
+      <created>1569645731162</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568869621874</updated>
-      <workItem from="1568869623200" duration="6699000" />
-      <workItem from="1569131744814" duration="698000" />
-      <workItem from="1569646190783" duration="32000" />
+      <updated>1569645731162</updated>
+      <workItem from="1569645742170" duration="474000" />
+      <workItem from="1569646266377" duration="1087000" />
     </task>
     <servers />
   </component>
