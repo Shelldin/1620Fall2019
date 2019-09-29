@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     private Vector3 position;
     private int jumpCount = 0;
 
-    public int jumpCountMax = 2;
+    public static int jumpCountMax = 2;
 
     public float moveSpeed = 10f,
         gravity = 3f,

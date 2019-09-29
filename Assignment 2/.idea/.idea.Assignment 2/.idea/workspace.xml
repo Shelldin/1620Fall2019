@@ -12,13 +12,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Player Controller Practice/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/JumpMaxUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../CreateProjectPractice/Assets/Scripts/Functions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JumpMaxUp.cs" />
       </list>
     </option>
   </component>
@@ -69,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1569645731162</updated>
       <workItem from="1569645742170" duration="474000" />
-      <workItem from="1569646266377" duration="1087000" />
+      <workItem from="1569646266377" duration="1933000" />
+      <workItem from="1569732914093" duration="2573000" />
     </task>
     <servers />
   </component>
