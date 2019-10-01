@@ -4,6 +4,8 @@ using UnityEngine;
 [CreateAssetMenu]
 public class PlayerData : ScriptableObject
 {
+    public string playerName;
+
     public float health = 1f,
         moveSpeed = 10f,
         jumpSpeed = 30f,

@@ -20,7 +20,6 @@ public class Functions : MonoBehaviour
         var newPlayer = Instantiate(player);
         newPlayer.layer = 0;
         newPlayer.active = true;
-        newPlayer.tag = "player";
         newPlayer.transform.position = Vector3.zero;
         newPlayer.name = playerName;
         newPlayer.GetComponent<Renderer>().material.color = playerColor;
