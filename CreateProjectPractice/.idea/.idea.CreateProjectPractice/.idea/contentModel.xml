@@ -18,6 +18,7 @@
           <e p="Movement.cs" t="Include" />
           <e p="MovePractice.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
+          <e p="PlayerData.cs" t="Include" />
           <e p="StartBehavior.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
