@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     
     void Start()
     {
-        controller = GetComponent<CharacterController>()
+        controller = GetComponent<CharacterController>();
     }
 
     void Update()
