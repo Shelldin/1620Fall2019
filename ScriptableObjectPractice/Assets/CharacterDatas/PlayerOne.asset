@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 932fce13b8ff37e44a00a1ef564728a3, type: 3}
   m_Name: PlayerOne
   m_EditorClassIdentifier: 
-  characterName: 
+  characterName: Heinz Doofenschmirtz
   jumpCount: 0
-  jumpCountMax: 1
+  jumpCountMax: 2
   moveSpeed: 10
   gravity: 3
   jumpSpeed: 30
