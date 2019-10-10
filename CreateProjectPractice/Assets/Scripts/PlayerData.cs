@@ -2,18 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
-public class PlayerData : ScriptableObject
+public class PlayerData : GameArtData
 {
-    public string playerName;
+    public WeaponData weapon;
 
-    public float health = 1f,
-        moveSpeed = 10f,
-        jumpSpeed = 30f,
-        attackPower = 10f,
-        defence = 1f;
-    
-    
-
-
-
+    public void InstancePlayer()
+    {
+        var newPlayer = Instantiate(prefab);
+        var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
+        newSprite.sprite = sprite;
+        newSprite.color = color;
+    }
 }

@@ -12,6 +12,7 @@
           <e p="DogClass.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
+          <e p="GameArtData.cs" t="Include" />
           <e p="IfElseFruit.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
@@ -26,6 +27,7 @@
           <e p="UIImageController.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
+          <e p="WeaponData.cs" t="Include" />
         </e>
       </e>
       <e p="CreateProjectPractice.sln" t="IncludeFlat" />
