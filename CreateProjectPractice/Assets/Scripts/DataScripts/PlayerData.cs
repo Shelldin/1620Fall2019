@@ -4,7 +4,10 @@ using UnityEngine;
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
-    public WeaponData weapon;
+    public List<WeaponData> weapons;
+    public FloatData health;
+    public ClothesData shirt;
+    public ClothesData pants;
 
     public void InstancePlayer()
     {

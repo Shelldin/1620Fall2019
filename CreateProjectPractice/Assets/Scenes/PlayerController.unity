@@ -321,7 +321,42 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1330639338}
+        m_MethodName: UpdateText
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: e61df2d3d4e5d3741be90cbee08232ae,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: IntData, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 27158493}
+        m_MethodName: UpdateImage
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: df8b7b870505e464c9380d3c9a61b55a,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: d7364151f4899344a8ac46cf459c0671, type: 2}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!4 &193307012
@@ -1601,7 +1636,7 @@ PrefabInstance:
     - target: {fileID: 4283916064017469990, guid: 4d7da74c3edea214eb7f1aa64924adf3,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.19
+      value: 9.64
       objectReference: {fileID: 0}
     - target: {fileID: 4283916064017469990, guid: 4d7da74c3edea214eb7f1aa64924adf3,
         type: 3}
@@ -1646,6 +1681,16 @@ PrefabInstance:
     - target: {fileID: 4283916064017469990, guid: 4d7da74c3edea214eb7f1aa64924adf3,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4283916064017469986, guid: 4d7da74c3edea214eb7f1aa64924adf3,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4283916064017470041, guid: 4d7da74c3edea214eb7f1aa64924adf3,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
