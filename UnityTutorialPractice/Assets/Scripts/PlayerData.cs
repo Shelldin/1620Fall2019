@@ -4,17 +4,18 @@ using UnityEngine;
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
-    public List<WeaponData> weapons;
-    public FloatData health;
-    public ClothesData shirt;
-    public ClothesData pants;
+    public int jumpCount = 0,
+        jumpCountMax;
+
+    public float moveSpeed = 10f,
+        jumpSpeed = 25f,
+        gravity = 3f;
 
     public void InstancePlayer()
     {
         var newPlayer = Instantiate(prefab);
         var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
-        //giving me a error but not sure what is wrong will investigate 
-        //newSprite.sprite = sprite;
-        //newSprite.color = color;
+        newSprite.sprite = sprite;
+        newSprite.color = color;
     }
 }
