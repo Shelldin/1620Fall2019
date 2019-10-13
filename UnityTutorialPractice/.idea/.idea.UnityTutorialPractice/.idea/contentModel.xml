@@ -8,6 +8,8 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="GameArtData.cs" t="Include" />
+          <e p="MonoEvents.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
           <e p="PlayerData.cs" t="Include" />
         </e>
       </e>

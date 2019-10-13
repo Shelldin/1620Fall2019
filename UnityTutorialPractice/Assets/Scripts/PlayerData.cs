@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerData : GameArtData
 {
     public int jumpCount = 0,
-        jumpCountMax;
+        jumpCountMax = 2;
 
     public float moveSpeed = 10f,
         jumpSpeed = 25f,
@@ -17,5 +17,20 @@ public class PlayerData : GameArtData
         var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
         newSprite.sprite = sprite;
         newSprite.color = color;
+    }
+
+    public void UpdateJumpMax(int amount)
+    {
+        jumpCountMax += amount;
+    }
+
+    public void UpdateMoveSpeed(float amount)
+    {
+        moveSpeed += amount;
+    }
+
+    public void UpdateJumpSpeed(float amount)
+    {
+        jumpSpeed += amount;
     }
 }
