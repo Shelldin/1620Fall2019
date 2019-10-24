@@ -10,10 +10,24 @@ public class GameArtCollection : ScriptableObject
 
     public void AddData(GameArtData obj)
     {
-        if(!obj.collected)
+        if (!collectionList.Contains(obj))
         {
             collectionList.Add(obj);
-            obj.collected = true;
         }
+        
+        //foreach (var gameArt in collectionList)
+        {
+            //  Debug.Log(gameArt);   
+        }
+        
+        //  for (var i = 0; i < collectionList.Count; i++)
+        {
+          //  if (collectionList[i] == obj)
+          {
+              //    collectionList.Add(obj);
+          }
+        }
+        
+        
     }
 }

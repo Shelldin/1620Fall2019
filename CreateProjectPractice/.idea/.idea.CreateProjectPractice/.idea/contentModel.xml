@@ -23,6 +23,7 @@
           <e p="Functions.cs" t="Include" />
           <e p="IfElseFruit.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
+          <e p="Lists.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
