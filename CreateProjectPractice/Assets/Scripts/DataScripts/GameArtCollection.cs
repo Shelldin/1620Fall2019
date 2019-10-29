@@ -28,14 +28,14 @@ public class GameArtCollection : ScriptableObject
           }
         }
 
-    }
 
+    }
     public void RemoveLastItem()
     {
-        if (!(collectionList[collectionList.Count-1] =null))
+        if (collectionList.Count > 0 )
         {
-            collectionList.RemoveAt(collectionList.Count-1); 
+            collectionList.RemoveAt(collectionList.Count-1);
         }
-    
     }
 }
+
