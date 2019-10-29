@@ -5,7 +5,7 @@ using UnityEngine.Events;
 [RequireComponent(typeof(Collider))]
 public class TriggerEvents : MonoBehaviour
 {
-    public UnityEvent triggerEvent;
+    public UnityEvent triggerEnterEvent, triggerExitEvent;
 
     private void Awake()
     {
@@ -14,6 +14,11 @@ public class TriggerEvents : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     { 
-        triggerEvent.Invoke();
+        triggerEnterEvent.Invoke();
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        triggerExitEvent.Invoke();
     }
 }
