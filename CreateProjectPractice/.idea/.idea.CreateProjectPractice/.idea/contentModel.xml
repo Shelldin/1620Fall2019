@@ -7,6 +7,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="AI Scripts" t="Include">
+            <e p="AgentHandler.cs" t="Include" />
+          </e>
           <e p="ApplyForce.cs" t="Include" />
           <e p="CatClass.cs" t="Include" />
           <e p="CMController.cs" t="Include" />
@@ -18,6 +21,7 @@
             <e p="IntData.cs" t="Include" />
             <e p="PlayerData.cs" t="Include" />
             <e p="PlayerHandler.cs" t="Include" />
+            <e p="ShiftDownEvent.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
           <e p="Debugger.cs" t="Include" />
@@ -31,6 +35,7 @@
           <e p="MonoEvents.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
+          <e p="MovementZ.cs" t="Include" />
           <e p="MovePractice.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="StartBehavior.cs" t="Include" />
