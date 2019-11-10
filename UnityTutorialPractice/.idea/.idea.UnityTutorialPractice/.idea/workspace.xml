@@ -12,6 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KeyUpShoot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireballMovement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -27,10 +28,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FireballMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FireballInstancer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FireballInstance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyUpShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireballMovement.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +84,7 @@
       <updated>1570944758751</updated>
       <workItem from="1570944760283" duration="6020000" />
       <workItem from="1572240217354" duration="595000" />
+      <workItem from="1573363470906" duration="3429000" />
     </task>
     <servers />
   </component>

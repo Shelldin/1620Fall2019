@@ -8,10 +8,18 @@ public class FireballMovement : MonoBehaviour
     private CharacterController controller;
     private Vector3 position;
     public float moveSpeed = 15f;
-
+    public GameObject prefab;
+    
     private void Start()
     {
+
+        position = prefab.transform.position; 
         controller = GetComponent<CharacterController>();
+    }
+
+    private void Awake()
+    {
+        position = prefab.transform.position;
     }
 
     void Update()
@@ -20,3 +28,4 @@ public class FireballMovement : MonoBehaviour
         position.x = moveSpeed;
     }
 }
+
