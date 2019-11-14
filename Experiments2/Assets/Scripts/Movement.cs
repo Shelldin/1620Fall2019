@@ -1,31 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 [RequireComponent(typeof(CharacterController))]
-
-public class PlayerController : MonoBehaviour
+public class Movement : MonoBehaviour
 {
-
-    private CharacterController controller;
+    public CharacterController controller;
     private Vector3 position;
-    private int jumpCount = 0;
-
-    public int maxJumpCount = 2;
 
     public float moveSpeed = 10f,
         gravity = 3f,
         jumpSpeed = 30f;
-    
+
+    public int jumpCount = 0,
+        maxJumpCount = 2;
     void Start()
     {
         controller = GetComponent<CharacterController>();
     }
 
-    
     void Update()
     {
-        position.x = moveSpeed * Input.GetAxis("Horizontal");
+        position.x = Input.GetAxis("Horizontal") * moveSpeed;
         controller.Move(position * Time.deltaTime);
 
         if (!controller.isGrounded)
