@@ -4,12 +4,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class Coroutines : MonoBehaviour
+public class CoroutineClass : MonoBehaviour
 {
     public UnityEvent coEvent;
     private WaitForSeconds wfsObj;
     public float seconds = 3f;
     public bool canRun = true;
+    public FloatData index;
 
     private void Awake()
     {
@@ -23,9 +24,10 @@ public class Coroutines : MonoBehaviour
 
     IEnumerator OnRun()
     {
-        while (canRun)
+        while (index.value > 0)
         {
-            coEvent.Invoke();
+            Debug.Log(index.value);
+            index.value--;
             yield return wfsObj;
             
         }

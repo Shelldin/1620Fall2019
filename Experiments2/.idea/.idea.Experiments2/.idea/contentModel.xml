@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Beans\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Beans\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Experiments2.499193904.00" t="ExcludeRecursive" />
-    <e p="D:\GitHub Repos\1620Fall2019\Experiments2" t="IncludeRecursive">
+    <e p="C:\Users\10586917\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10586917\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Experiments2.-504998308.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10586917\Documents\GitRepo\1620Fall2019\1620Fall2019\Experiments2" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
@@ -11,6 +11,7 @@
           <e p="Debugger.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
+          <e p="TrigEvent.cs" t="Include" />
         </e>
       </e>
       <e p="Experiments2.sln" t="IncludeFlat" />
