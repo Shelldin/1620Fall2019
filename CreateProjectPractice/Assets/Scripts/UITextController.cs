@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
@@ -16,5 +17,10 @@ public class UITextController : MonoBehaviour
     void Awake()
     {
         textLabel = GetComponent<Text>();
+    }
+
+    private void Update()
+    {
+        startEvent.Invoke();
     }
 }

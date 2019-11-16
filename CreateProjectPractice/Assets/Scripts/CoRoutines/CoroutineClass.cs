@@ -10,7 +10,7 @@ public class CoroutineClass : MonoBehaviour
     private WaitForSeconds wfsObj;
     public float seconds = 3f;
     public bool canRun = true;
-    public FloatData index;
+    public IntData index;
 
     private void Awake()
     {
@@ -26,9 +26,10 @@ public class CoroutineClass : MonoBehaviour
     {
         while (index.value > 0)
         {
+            yield return wfsObj;
             Debug.Log(index.value);
             index.value--;
-            yield return wfsObj;
+            
             
         }
     }
