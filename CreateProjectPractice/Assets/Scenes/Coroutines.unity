@@ -698,7 +698,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   seconds: 1
-  canRun: 1
+  canRun: 0
   index: {fileID: 11400000, guid: fd6916b04d3d4b543a85887472880957, type: 2}
 --- !u!1 &1284106608
 GameObject:
